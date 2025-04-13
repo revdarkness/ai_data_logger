@@ -1,0 +1,35 @@
+edge-ai-audio-logger/
+├── /firmware/                  # M5 Stack Core2 / ESP32 Code
+│   ├── /src/                   # Main Source Code
+│   ├── /include/               # Header Files
+│   ├── /lib/                   # External Libraries
+│   ├── /config/                # Configuration Files
+│   └── README.md               # Firmware Documentation
+│
+├── /iphone-app/                # iOS Swift Application
+│   ├── /Views/                 # UI Components
+│   ├── /Models/                # Data Models
+│   ├── /Controllers/           # View Controllers
+│   ├── /Bluetooth/             # BLE Communication Layer
+│   ├── /Transcription/         # Whisper Integration
+│   ├── /Summarization/         # LLM Prompting Logic
+│   └── README.md               # iPhone App Documentation
+│
+├── /cloud/                     # Optional Cloud Infrastructure
+│   ├── /terraform/             # AWS Infrastructure as Code
+│   ├── /scripts/               # Upload & Management Scripts
+│   └── README.md               # Cloud Configuration Docs
+│
+├── /docs/                      # Project Documentation
+│   ├── architecture/           # Diagrams, System Architecture
+│   ├── user-guides/            # Setup & Usage Instructions
+│   └── presentations/          # Slide Decks & Visuals
+│
+├── /tests/                     # Testing Scripts & Logs
+│   ├── firmware-tests/         # Unit & Integration Tests
+│   ├── app-tests/              # iOS App Tests
+│   └── README.md               # Testing Strategy
+│
+├── LICENSE
+├── README.md                   # Project Overview
+└── CONTRIBUTING.md             # Contribution Guidelines
