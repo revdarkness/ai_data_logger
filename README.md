@@ -17,7 +17,7 @@ The Edge AI Audio Logger is a hybrid hardware and software system designed for c
 ## Use Cases
 - Teachers capturing lesson notes  
 - Engineers logging field observations  
-- Astronauts recording mission logs  
+- Astronauts recording mission logs integrated into existing systems  
 - Meeting minutes automation  
 
 ## Repository Structure
